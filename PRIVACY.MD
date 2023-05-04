@@ -6,7 +6,7 @@ We want to try to make this Privacy Policy as accessible and useful to our visit
 
 ## Overview
 
-In general, we collect information about the actions that you take on the Services, and we use this information to provide the Services to you. You can access some of the Service features without creating an account or providing us with personal information. However, if you set up an account with us, you’ll need to provide us with contact information, such as your email, so that we can communicate with you and provide you with information about the Services. Additionally, we may use Google Analytics to help us analyze data on website traffic and page views. We take steps to protect the personal information you provide us, such as by limiting access to the information to trained staff and designated volunteers, and only sharing your information as needed to provide the Services to you. We also provide you with certain choices regarding your personal information, and we aim to honor your preferences.
+In general, we collect information about the actions that you take on the Services, and we use this information to provide the Services to you. You can access some of the Service features without creating an account or providing us with personal information. Additionally, we may use Google Analytics to help us analyze data on website traffic and page views. We take steps to protect the personal information you provide us, such as by limiting access to the information to trained staff and designated volunteers, and only sharing your information as needed to provide the Services to you. We also provide you with certain choices regarding your personal information, and we aim to honor your preferences.
 
 ## Information We Collect From You and How We Collect It
 
