@@ -8,7 +8,7 @@ The real-changesets are created by combining the changeset metadata and the augm
 
 On the other hand, it's possible to convert the real-changesets JSON to GeoJSON with the [real-changesets-parser](https://github.com/mapbox/real-changesets-parser/).
 
-Currently, the real-changesets files are hosted by Mapbox and available at the URL `https://s3.amazonaws.com/mapbox/real-changesets/production/{changeset-id}.json`, example: changeset [142052985](https://s3.amazonaws.com/mapbox/real-changesets/production/142052985.json).
+The real-changesets files are available at the URL `https://real-changesets.s3.us-west-2.amazonaws.com/{changeset-id}.json`, example: changeset [142052985](https://real-changesets.s3.us-west-2.amazonaws.com/142052985.json).
 
 ### Data structure
 
